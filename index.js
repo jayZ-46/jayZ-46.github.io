@@ -1,24 +1,24 @@
 const team = document.getElementById('teams');
 const names = [
     {
-        firstName: "Linda",
-        secondName: "Brentford"
+        firstName: "Jay Z,",
+        secondName: "zE, Irish"
     },
     {
-        firstName: "Matilda",
-        secondName: "Sheen"
+        firstName: "zE, Bogota,",
+        secondName: "Jay Z, Irish"
     },
     {
-        firstName: "Anne",
-        secondName: "Michealson"
+        firstName: "Tiana,",
+        secondName: "zE, Irish"
     },
     {
-        firstName: "Beatrice",
-        secondName: "CarMaicheal"
+        firstName: "Wisdom",
+        secondName: "Jonathan"
     },
     {
-        firstName: "John",
-        secondName: "Luton"
+        firstName: "Tiana,",
+        secondName: "RJ, Prof"
     },
 ]
 
